@@ -1,0 +1,4 @@
+[core]
+    remote = cv3data
+['remote "cv3data"']
+    url = gdrive://1rxNhJ25zdFkING5fGNmy1yPGNy6OzBpg
